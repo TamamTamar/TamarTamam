@@ -13,3 +13,13 @@ MySQL- ולפתוח חשבון
 יש לפתוח database בשם coronaapi
 יש לעדכן בקובץ data.sql את השם משתמש והסיסמה לmysql
 יש להתקין postman
+
+שימוש בפרוייקט:
+על מנת להשתמש בפרוייקט יש להריץ תחילה את קובץ CoronaapiApplication באקליפס.
+על מנת לשלוח בקשות לעידכון או לקבלת מידע מהdatabase ניתן להשתמש בchrome בעזרת url ttp://localhost:8080/api  או בעזרת postman ע"י בקשות כגון
+Get
+Post
+Put
+או ע"י שאילתות בmySQL 
+
+
